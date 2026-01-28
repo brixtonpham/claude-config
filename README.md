@@ -11,18 +11,19 @@ Personal Claude Code configuration with custom agents, skills, and principles.
 git clone git@github.com:brixtonpham/claude-config.git ~/.claude
 ```
 
-**If ~/.claude already exists:**
+**If ~/.claude already exists (chezmoi-style):**
 ```bash
-# Backup existing config (optional)
-mv ~/.claude ~/.claude.bak
-
-# Clone
-git clone git@github.com:brixtonpham/claude-config.git ~/.claude
+cd ~/.claude
+git init
+git remote add origin git@github.com:brixtonpham/claude-config.git
+git fetch origin
+git reset --hard origin/main
+git branch --set-upstream-to=origin/main main
 ```
 
-**Or overwrite without backup:**
+**Future updates:**
 ```bash
-rm -rf ~/.claude && git clone git@github.com:brixtonpham/claude-config.git ~/.claude
+cd ~/.claude && git pull
 ```
 
 ### 2. Install Claude Code
