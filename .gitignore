@@ -1,0 +1,35 @@
+# Runtime state
+debug/
+file-history/
+session-env/
+shell-snapshots/
+telemetry/
+paste-cache/
+cache/
+todos/
+tasks/
+statsig/
+plans/
+web_search/
+
+# Sensitive/Local
+settings.local.json
+*.local.json
+history.jsonl
+stats-cache.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plugins cache
+plugins/cache/
+plugins/marketplaces/
+plugins/known_marketplaces.json
+plugins/install-counts-cache.json
+
+# Projects (machine-specific)
+projects/
+
+# Logs
+*.log

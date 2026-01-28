@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "plugins": {
+    "supabase@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/Users/namu10x/workspace/skkn-genie",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/supabase/e30768372b41",
+        "version": "e30768372b41",
+        "installedAt": "2026-01-10T04:50:06.646Z",
+        "lastUpdated": "2026-01-26T18:50:54.130Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+      }
+    ],
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/Users/namu10x/workspace/skkn-genie",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/typescript-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-10T04:50:06.646Z",
+        "lastUpdated": "2026-01-10T04:50:06.646Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/Users/namu10x/workspace/skkn-genie",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/frontend-design/e30768372b41",
+        "version": "e30768372b41",
+        "installedAt": "2026-01-10T04:50:06.646Z",
+        "lastUpdated": "2026-01-26T18:50:54.129Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/context7/e30768372b41",
+        "version": "e30768372b41",
+        "installedAt": "2026-01-11T12:53:14.939Z",
+        "lastUpdated": "2026-01-27T14:51:25.673Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+      }
+    ],
+    "greptile@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/Users/namu10x/workspace/worldquant/NamEngine2",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/greptile/e30768372b41",
+        "version": "e30768372b41",
+        "installedAt": "2026-01-11T12:53:14.939Z",
+        "lastUpdated": "2026-01-22T10:06:39.341Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+      }
+    ],
+    "clangd-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/clangd-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-12T19:31:46.049Z",
+        "lastUpdated": "2026-01-12T19:31:46.049Z"
+      }
+    ]
+  }
+}
