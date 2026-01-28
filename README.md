@@ -6,7 +6,7 @@ Personal Claude Code configuration with custom agents, skills, and principles.
 
 ### 1. Clone Repository
 ```bash
-git clone git@github.com:<YOUR_USERNAME>/claude-config.git ~/.claude
+git clone git@github.com:brixtonpham/claude-config.git ~/.claude
 ```
 
 ### 2. Install Claude Code
