@@ -10,7 +10,6 @@ todos/
 tasks/
 statsig/
 plans/
-web_search/
 
 # Sensitive/Local
 settings.local.json
