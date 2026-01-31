@@ -33,3 +33,10 @@ projects/
 
 # Logs
 *.log
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Image cache
+image-cache/

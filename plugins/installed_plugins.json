@@ -5,10 +5,10 @@
       {
         "scope": "local",
         "projectPath": "/Users/namu10x/workspace/skkn-genie",
-        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/supabase/e30768372b41",
-        "version": "e30768372b41",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/supabase/27d2b86d72da",
+        "version": "27d2b86d72da",
         "installedAt": "2026-01-10T04:50:06.646Z",
-        "lastUpdated": "2026-01-26T18:50:54.130Z",
+        "lastUpdated": "2026-01-30T08:09:21.568Z",
         "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
       }
     ],
@@ -27,31 +27,32 @@
       {
         "scope": "local",
         "projectPath": "/Users/namu10x/workspace/skkn-genie",
-        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/frontend-design/e30768372b41",
-        "version": "e30768372b41",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/frontend-design/27d2b86d72da",
+        "version": "27d2b86d72da",
         "installedAt": "2026-01-10T04:50:06.646Z",
-        "lastUpdated": "2026-01-26T18:50:54.129Z",
+        "lastUpdated": "2026-01-30T08:09:21.567Z",
         "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
       }
     ],
     "context7@claude-plugins-official": [
       {
-        "scope": "user",
-        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/context7/e30768372b41",
-        "version": "e30768372b41",
+        "scope": "project",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/context7/27d2b86d72da",
+        "version": "27d2b86d72da",
         "installedAt": "2026-01-11T12:53:14.939Z",
-        "lastUpdated": "2026-01-27T14:51:25.673Z",
-        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
+        "lastUpdated": "2026-01-31T08:49:49.483Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c",
+        "projectPath": "/Users/namu10x"
       }
     ],
     "greptile@claude-plugins-official": [
       {
         "scope": "local",
         "projectPath": "/Users/namu10x/workspace/worldquant/NamEngine2",
-        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/greptile/e30768372b41",
-        "version": "e30768372b41",
+        "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/greptile/d49ad3558669",
+        "version": "d49ad3558669",
         "installedAt": "2026-01-11T12:53:14.939Z",
-        "lastUpdated": "2026-01-22T10:06:39.341Z",
+        "lastUpdated": "2026-01-29T18:34:21.552Z",
         "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
       }
     ],
