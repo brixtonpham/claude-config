@@ -24,6 +24,7 @@ Thumbs.db
 
 # Plugins cache
 plugins/cache/
+plugins/local/stitch/.mcp.json
 plugins/marketplaces/
 plugins/known_marketplaces.json
 plugins/install-counts-cache.json

@@ -36,13 +36,12 @@
     ],
     "context7@claude-plugins-official": [
       {
-        "scope": "project",
+        "scope": "user",
         "installPath": "/Users/namu10x/.claude/plugins/cache/claude-plugins-official/context7/27d2b86d72da",
         "version": "27d2b86d72da",
         "installedAt": "2026-01-11T12:53:14.939Z",
-        "lastUpdated": "2026-01-31T08:49:49.483Z",
-        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c",
-        "projectPath": "/Users/namu10x"
+        "lastUpdated": "2026-01-31T09:37:19.625Z",
+        "gitCommitSha": "f1be96f0fb58d5aaf2840ca7d7036d5c0923742c"
       }
     ],
     "greptile@claude-plugins-official": [
